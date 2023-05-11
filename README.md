@@ -13,5 +13,5 @@
   [Lesson2-3](https://github.com/s21015/algorithm_class/tree/main/Lesson2/Lesson2-3)  
   [Lesson2-4](https://github.com/s21015/algorithm_class/tree/main/Lesson2/Lesson2-4)  
   [Lesson2-5](https://github.com/s21015/algorithm_class/tree/main/Lesson2/Lesson2-5)  
-  [Lesson2-P](https://github.com/s21015/algorithm_class/tree/main/Lesson2/Lesson2-P)　
+  [Lesson2-P](https://github.com/s21015/algorithm_class/tree/main/Lesson2/Lesson2-P)  　
   [ExtraLesson2](https://github.com/s21015/algorithm_class/tree/main/ExtraLesson2-1)

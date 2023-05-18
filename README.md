@@ -18,3 +18,4 @@
 - Lesson3  
   [Lesson3-1](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-1)  
   [Lesson3-2](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-2)  
+  [Lesson3-3](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-3)  

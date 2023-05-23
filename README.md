@@ -19,3 +19,4 @@
   [Lesson3-1（スタック）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-1)  
   [Lesson3-2（キュー）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-2)  
   [Lesson3-3（リスト）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-3)  
+  [Lesson3-4（木）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-4)  

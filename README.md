@@ -20,3 +20,6 @@
   [Lesson3-2（キュー）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-2)  
   [Lesson3-3（リスト）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-3)  
   [Lesson3-4（木）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-4)  
+  [Lesson3-5（グラフ）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-5)  
+  [ExtraLesson3-1（スタックとキューを扱うPythonのモジュール）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/ExtraLesson3-1)  
+  [ExtraLesson3-2（データを保存する）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/ExtraLesson3-2)  

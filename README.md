@@ -23,3 +23,5 @@
   [Lesson3-5（グラフ）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/Lesson3-5)  
   [ExtraLesson3-1（スタックとキューを扱うPythonのモジュール）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/ExtraLesson3-1)  
   [ExtraLesson3-2（データを保存する）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/ExtraLesson3-2)  
+- Lesson4「サーチ」
+  [Lesson4-1（線形探索）](https://github.com/s21015/algorithm_class/tree/main/Lesson4/Lesson4-1)  

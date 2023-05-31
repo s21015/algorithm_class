@@ -25,3 +25,5 @@
   [ExtraLesson3-2（データを保存する）](https://github.com/s21015/algorithm_class/tree/main/Lesson3/ExtraLesson3-2)  
 - Lesson4「サーチ」  
   [Lesson4-1（線形探索）](https://github.com/s21015/algorithm_class/tree/main/Lesson4/Lesson4-1)  
+- Lesson5「ソート」  
+  [Lesson5-4（クイックソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-4)  

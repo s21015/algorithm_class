@@ -30,4 +30,7 @@
   [ExtraLesson4-2（数あてゲーム）](https://github.com/s21015/algorithm_class/tree/main/Lesson4/ExtraLesson4-2) 
 - Lesson5「ソート」  
   [Lesson5-1（選択ソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-1)  
+  [Lesson5-2（バブルソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-2)  
+  [Lesson5-3（挿入ソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-3)  
   [Lesson5-4（クイックソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-4)  
+  [Lesson5-5（マージソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-5)  

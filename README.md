@@ -34,3 +34,4 @@
   [Lesson5-3（挿入ソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-3)  
   [Lesson5-4（クイックソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-4)  
   [Lesson5-5（マージソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-5)  
+  [Lesson5-6（ヒープソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-6)  

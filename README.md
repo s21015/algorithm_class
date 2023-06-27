@@ -35,3 +35,9 @@
   [Lesson5-4（クイックソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-4)  
   [Lesson5-5（マージソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-5)  
   [Lesson5-6（ヒープソート）](https://github.com/s21015/algorithm_class/tree/main/Lesson5/Lesson5-6)  
+- Lesson6「ハッシュ」  
+  [Lesson6-2（ハッシュ関数）](https://github.com/s21015/algorithm_class/tree/main/Lesson6/Lesson6-2)  
+- Lesson7「さまざまなアルゴリズムを学ぶ」  
+  [Lesson7-1（ユークリッドの互除法）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-1)  
+  [Lesson7-2（文字列探索）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-2)  
+  [Lesson7-3（最短経路問題）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-3)  

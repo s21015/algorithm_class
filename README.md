@@ -41,3 +41,5 @@
   [Lesson7-1（ユークリッドの互除法）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-1)  
   [Lesson7-2（文字列探索）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-2)  
   [Lesson7-3（最短経路問題）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-3)  
+- Lesson8「アルゴリズムを見える化する」  
+  [Lesson8-1（n次関数の曲線を描く）](https://github.com/s21015/algorithm_class/tree/main/Lesson8/Lesson8-1)  

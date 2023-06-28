@@ -43,3 +43,5 @@
   [Lesson7-3（最短経路問題）](https://github.com/s21015/algorithm_class/tree/main/Lesson7/Lesson7-3)  
 - Lesson8「アルゴリズムを見える化する」  
   [Lesson8-1（n次関数の曲線を描く）](https://github.com/s21015/algorithm_class/tree/main/Lesson8/Lesson8-1)  
+  [Lesson8-2（フラクタル図形を描く）](https://github.com/s21015/algorithm_class/tree/main/Lesson8/Lesson8-2) 
+  [Lesson8-3（迷路を解く過程を描く）](https://github.com/s21015/algorithm_class/tree/main/Lesson8/Lesson8-3) 

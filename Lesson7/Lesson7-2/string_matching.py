@@ -9,6 +9,15 @@ while p <= tn-pn:
     c = 0
     for i in range(pn):
         if text[p+i] != pattern[i]:
-            brak
-            c += 1
-            
+            break
+        c += 1
+    if c == pn:
+        flg = True
+        break
+    p += 1
+
+print(text)
+if flg == True:
+    print(str(p+1)+"文字目に"+pattern+"があります")
+else:
+    print(pattern+"は見つかりませんでした")
